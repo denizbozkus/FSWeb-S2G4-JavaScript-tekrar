@@ -142,6 +142,6 @@ module.exports = {
 };
 
 
-function carp (a,b){
-  return a * b;
+function carp (a,c){
+  return a * c;
 }
