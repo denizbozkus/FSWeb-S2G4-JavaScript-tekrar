@@ -140,3 +140,8 @@ module.exports = {
   siralisayilar,
   tekraredensayilar,
 };
+
+
+function carp (a,b){
+  return a * b;
+}
